@@ -1,0 +1,23 @@
+.navbar ul li a{
+    color:red;
+    text-decoration:none;
+    transition:all;
+    padding:o 20px 0 0;
+    font-family: 'Gill sans','Gill sans MT',calibri,'Trebuchet MS',Sans-Serif;
+}
+.navbar ul li{
+    list-style:none;
+    display:inline-block;
+    margin:0 30px 0 0;
+}
+
+
+.navbar ul{
+    float: right;
+    transform:scale(1.2);
+    background-color:purple;
+}
+
+.navbar li a:hover{
+    color:green;
+}
